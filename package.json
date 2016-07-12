@@ -26,11 +26,8 @@
   "homepage": "https://github.com/davsket/git-brancher#readme",
   "dependencies": {
     "colour": "^0.7.1",
-    "editor": "^1.0.0",
-    "help": "^3.0.2",
     "inquirer": "^1.1.2",
     "lodash.deburr": "^4.0.0",
-    "lodash.kebabcase": "^4.0.1",
     "yargs": "^4.8.0"
   }
 }
