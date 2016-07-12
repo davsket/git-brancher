@@ -1,12 +1,12 @@
 # Git Brancher
 
-This command let you create a branch name easily, you can pass your branch text as the arguments and it will generate a valid branch name from it.
-The main recommendation is to surround the text by ", so you can add linebrackes into it.
+his command lets you create a new branch easily, you can pass your branch text as the arguments and it will generate a valid branch name from it.
+A recommendation is to surround your text by ", so you can add line breaks into it.
 
-It will also suggest some prefix to add to the branch:
+It will also suggest some prefixes to add to the branch:
 
 ```sh
-$ brancher Project-1440 Sign up screen alignment (iOS)
+$ branch Project-1440 Sign up screen alignment (iOS)
 ! Your branch name so far:
 git checkout -b WFM365-1440-Sign-up-screen-alignment-iOS
 ? Would you like to add a prefix? (none)
