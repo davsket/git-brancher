@@ -44,13 +44,13 @@ You can also copy/paste your task from other place (i.e. Jira) and paste it usin
 
 ```sh
 $ branch "YourProject-2344
-This would be the issue text (and possible description)
+This would be the issue text (and possible description)"
 ```
 
 Will execute:
 
 ```sh
-$ git checkout -b YourProject-2344-This-would-be-the-issue-text-and-possible description
+$ git checkout -b YourProject-2344-This-would-be-the-issue-text-and-possible-description
 ```
 
 ## Help
