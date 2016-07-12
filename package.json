@@ -1,6 +1,6 @@
 {
   "name": "git-brancher",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Helps you to create new named branches for you",
   "main": "index.js",
   "scripts": {
